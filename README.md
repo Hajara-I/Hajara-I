@@ -1,6 +1,6 @@
 ### Hi there, I'm Hajara 👋
 
-I'm a (soon-to-be) full stack Software Developer seeking roles where I can build, analyse and diagnose problems with technology. 
+I'm an aspiring full stack Software Developer seeking roles where I can build, analyse and diagnose problems with technology. 
 
 
 😄 About me...
