@@ -13,10 +13,9 @@ I enrolled in Nov 2021 and have been thoroughly enjoying the challenge of discov
 
 👩🏿‍💻 Some of the things I'm learning at the School of Code are:
 - Javascript
-- Typescript
 - React
 - NodeJS
-- SQL
+- PostgreSQL
 - Express
 
 
