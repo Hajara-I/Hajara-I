@@ -21,4 +21,5 @@ I enrolled in Nov 2021 and have been thoroughly enjoying the challenge of discov
 
 📭 You can reach me on [Linkedin](https://www.linkedin.com/in/hajara-iyal-363340120/) so feel free to say Hi! 
 
+Check out my portfolio [here](https://hajaraiyal.netlify.app/)!
 
