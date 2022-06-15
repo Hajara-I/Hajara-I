@@ -1,6 +1,6 @@
 ### Hi there, I'm Hajara 👋
 
-I'm a junior full stack Software Developer.
+I'm a junior full stack software developer.
 
 😄 About me...
 
